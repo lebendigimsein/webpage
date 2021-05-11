@@ -16,17 +16,17 @@ en:
   categories_title: 'Categories'
 
 de:
-  menu_index: 'Index'
+  menu_index: 'Beiträge'
   menu_category: 'Kategorien'
   menu_about: 'Über'
   paginator_previous: 'Bisherige'
   paginator_pages: 'Seite: '
   paginator_next: 'Nächster'
   notification_404: 'Seite nicht gefunden :('
-  post_write_date: 'Geschrieben auf '
+  post_write_date: 'Geschrieben am '
   post_update_date: 'aktualisiert am '
   post_categories: 'Kategorien: '
-  post_tags: 'Etikett: '
+  post_tags: 'Tags: '
   post_previous: 'Bisherige: '
   post_next: 'Nächster: '
   post_author: 'Autor: '
@@ -48,7 +48,7 @@ es:
   post_next: 'Siguiente: '
   post_author: 'El autor: '
   categories_title: 'Categorías'
-  
+
 it:
   menu_index: 'Indice'
   menu_category: 'Categorie'
