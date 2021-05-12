@@ -3,7 +3,7 @@ layout: post
 title:  "Liebe"
 date:   2021-04-11
 last_modified_at: ""
-categories: [Gedichte]
+categories: [Gedicht]
 ---
 
 Diese unfassbar explodierende Fülle  
@@ -16,4 +16,4 @@ An dein Strahlen und Leuchten
 Wie du Schönheit bist, erschaffst und gibst  
 Liebe  
 Lebendig durch dich  
-Und in diesem Kirschblütenstrahlen  
+Wie in diesem Kirschblütenstrahlen  

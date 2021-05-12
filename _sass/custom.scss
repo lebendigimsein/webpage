@@ -5,10 +5,26 @@
     min-height: calc(70vh);
 }
 
+.header-info-name {
+    color: #D60606;
+}
+
+li.header-main-nav-item > a.active:hover {
+    color: #000;
+}
+
+li.header-main-nav-item > a.active span {
+    border-bottom: 1px solid  #000000;
+}
+
 .post-title {
     text-align: left;
 }
 
 .post-title h1 {
     margin-bottom: 20px;
+}
+
+.post-content p {
+    line-height: 24px;
 }
