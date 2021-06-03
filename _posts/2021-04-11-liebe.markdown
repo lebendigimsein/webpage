@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Liebe"
-date:   2021-04-11
-last_modified_at: ""
-categories: [Gedicht]
+title: Liebe
+date: 2021-04-11
+last_modified_at:
+categories: [Gedichte]
+tags: []
 ---
 
 Diese unfassbar explodierende Fülle  
@@ -12,7 +13,7 @@ Voller Bienen und
 Einem weissen Schmetterling – Ton in Ton  
 Jenseits der Gartenmauer neben meinem Balkon  
 Erinnert mich an dich  
-An dein Strahlen und Leuchten  
+An dein Leuchten  
 Wie du Schönheit bist, erschaffst und gibst  
 Liebe  
 Lebendig durch dich  

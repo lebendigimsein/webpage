@@ -16,20 +16,11 @@ layout: default
   </div>
   <div class="post-info">
     <div class="post-date">
-      {{ site.data.lang[site.language].post_write_date}}
       {{ page.date | date: '%d.%m.%Y' }}
       {% if page.last_modified_at %}
-        ,
-        {{ site.data.lang[site.language].post_update_date}}
-        {{ page.last_modified_at | date: '%d.%m.%Y' }}
+        ({{ site.data.lang[site.language].post_update_date}}: {{ page.last_modified_at | date: '%d.%m.%Y' }})
       {% endif %}
-      .
     </div>
-    {% if site.name %}
-    <div class="post-author">
-      {{ site.data.lang[site.language].post_author }}{{ site.name }}
-    </div>
-    {% endif %}
     <div class="post-categories">
       <span>{{ site.data.lang[site.language].post_categories }}</span>
       {% for category in page.categories %}
@@ -40,12 +31,14 @@ layout: default
       </a>
       {% endfor %}
     </div>
+    {% if 0 < page.tags.size %}
     <div class="post-tags">
       <span>{{ site.data.lang[site.language].post_tags }}</span>
       {% for tag in page.tags %}
       <span class="post-tag">{{ tag }}</span>
       {% endfor %}
     </div>
+    {% endif %}
     <div class="post-other">
       {% if page.next %}
       <div>

@@ -1,10 +1,10 @@
 ---  
 layout: post  
-title:  Das hier  
-date:  2021-05-11  
-last_modified_at: 2021-05-12  
-categories: [Gedicht,Test]  
-tags: [Test]
+title: Das hier  
+date: 2021-05-11  
+last_modified_at: 2021-05-13  
+categories: [Gedichte]  
+tags: []
 ---  
 
 Mensch, da ist nur das  
@@ -18,8 +18,8 @@ Niemals
 Was immer du auch versuchst  
 DAS gewinnt immer  
 Weil es schon da ist  
-Vor deinem Einwand  
-Und mit dir  
+Mit dir  
+Bevor du etwas einzuwenden hast  
 Und Du  
 Ganz genau genommen nicht  
 Nicht so wie du denkst  
@@ -27,12 +27,11 @@ Nicht so wie das hier
 Das hier  
 Ist alles was du bekommst  
 Ist dein Leben  
-Ist Leben  
 Wie es ist  
 Und sobald du dich  
 In dem hier erkennst  
-In das hier entspannst  
 Das hier bejahst  
+Dich in das hier entspannst  
 Fliesst es  
 Als du  
 In dir  

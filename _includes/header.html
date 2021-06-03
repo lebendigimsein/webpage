@@ -7,7 +7,7 @@
     {% for item in site.data.menus %}
     <li class="header-main-nav-item">
       {% assign testUrl =  '/' | append: item.url | append: '/' %}
-      <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}" {% if page.url == testUrl or page.url == '/' and '' == item.url %}class="active"{% endif %}>
+      <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}" class="menu-item {% if page.url == testUrl or page.url == '/' and '' == item.url %}active{% endif %}">
         <span>
             {% if item.default %}
               {{site.data.lang[site.language][item.default]}}
