@@ -21,7 +21,7 @@ language: de
 # zh-cn: 简体中文 (Simplified Chinese)
 # zh-tw: 繁體中文 (Traditional Chinese)
 
-analytics: 274493776 # the Google Analytics property ID, e.g. UA-XXXXX-Y
+analytics: G-KPQN807NVB # the Google Analytics property ID, e.g. UA-XXXXX-Y
 
 comments: false # enable comments
 disqus: # disqus account
