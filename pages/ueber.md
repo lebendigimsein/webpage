@@ -4,13 +4,13 @@ title: Über
 permalink: /ueber
 ---
 
-Lebendigkeit ensteht durch Er-leben, mit allen Sinnen direkt und unvermittelt wahrgenommenes Leben – gefühlt, gehört, geschmeckt, gerochen, gespürt.  
-Präsentes Sein.
+Lebendigkeit wird er*lebt, entsteht im mit allen Sinnen unsers Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
+Präsenz. Bewusst sein.
 
-Wenn ich wach, aufmerksam und mutig bin, lasse ich Er-leben ungefiltert hindurchziehen – alles, was sich zeigt, unverstellt, ungehindert, vollständig.  
-Genau das, was ist – der Witz ist nämlich: etwas anderes gibt es nicht!  
-Bin ich nicht mutig, kommt noch der eine oder andere Widerstand dazu.  
-Und auch das ist, was ist. Auch das ist lebendig.
+Bin ich – wach, aufmerksam und mutig – lasse ich Er*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
+Der Witz ist nämlich: etwas anderes gibt es nicht!  
+Und das alles ist in dauernder Bewegung, ist eine nie aufhörende Veränderung im ewig jetzigen Moment.  
+Bin ich – bereit mich dem hinzugeben – lebe ich, was ist und werde leb*endig.
 
 Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar (mich vor allem selbst) inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn die Landkarte nicht die eigene Reise voller Er-leben ersetzt, freue ich mich immer, wenn ich im richtigen Moment im Netz auf genau die nächste wichtige Anregungen stosse.
 
