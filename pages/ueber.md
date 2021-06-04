@@ -16,7 +16,7 @@ Alles andere ergibt sich aus dem.
 Manchmal «lebe ich» das Leben so.  
 Und dann wieder anders.  
 Veränderung.  
-Die er*lebt werden will.  
+Die bewusst werden will.  
 Nicht mehr, als das.  
 Aber auch nicht weniger!
 
