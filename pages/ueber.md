@@ -17,7 +17,7 @@ Manchmal ist mein Leben so – lebendig.
 Und dann wieder anders.  
 Veränderung.  
 Die er*lebt werden will.  
-Nicht mehr, als das.
+Nicht mehr, als das.  
 Aber auch nicht weniger!
 
 Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht mein er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweisser stosse.
