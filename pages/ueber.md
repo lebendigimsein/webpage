@@ -10,7 +10,7 @@ Präsenz. Bewusst sein.
 Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
 Der Witz ist nämlich: etwas anderes gibt es nicht!  
 Und das alles ist in dauernder Bewegung, ist eine nie aufhörende Veränderung im ewig jetzigen Moment.  
-Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.
+Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.  
 Alles andere ergibt sich aus dem.
 
 Manchmal ist mein Leben so.  
