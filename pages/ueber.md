@@ -10,9 +10,17 @@ Präsenz. Bewusst sein.
 Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
 Der Witz ist nämlich: etwas anderes gibt es nicht!  
 Und das alles ist in dauernder Bewegung, ist eine nie aufhörende Veränderung im ewig jetzigen Moment.  
-Bereit mich dem hinzugeben, lebe ich was ist und werde lebendig.
+Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.
+Alles andere ergibt sich aus dem.
 
-Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht mein er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweisser stosse.
+Manchmal ist mein Leben so.  
+Und dann wieder anders.  
+Veränderung.  
+Die er*lebt werden will.  
+Nicht mehr, als das.
+Aber auch nicht weniger!
+
+Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht mein er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweisser stosse.
 
 Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
