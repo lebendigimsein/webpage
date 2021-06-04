@@ -4,15 +4,15 @@ title: Über
 permalink: /ueber
 ---
 
-Lebendigkeit wird er*lebt, entsteht im mit allen Sinnen unsers Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
+Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen unsers Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
 Präsenz. Bewusst sein.
 
-Bin ich – wach, aufmerksam und mutig – lasse ich Er*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
+Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
 Der Witz ist nämlich: etwas anderes gibt es nicht!  
 Und das alles ist in dauernder Bewegung, ist eine nie aufhörende Veränderung im ewig jetzigen Moment.  
-Bin ich – bereit mich dem hinzugeben – lebe ich, was ist und werde leb*endig.
+Bereit mich dem hinzugeben, lebe ich was ist und werde lebendig.
 
-Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar (mich vor allem selbst) inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn die Landkarte nicht die eigene Reise voller Er-leben ersetzt, freue ich mich immer, wenn ich im richtigen Moment im Netz auf genau die nächste wichtige Anregungen stosse.
+Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht mein er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweisser stosse.
 
 Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
