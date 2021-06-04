@@ -16,7 +16,7 @@ en:
   categories_title: 'Categories'
 
 de:
-  menu_index: 'Beiträge'
+  menu_index: 'Blog'
   menu_category: 'Kategorien'
   menu_about: 'Über'
   paginator_previous: 'vorherige'
