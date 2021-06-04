@@ -4,7 +4,7 @@ title: Über
 permalink: /ueber
 ---
 
-Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen unsers Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
+Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen unseres Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
 Präsenz. Bewusst sein.
 
 Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
