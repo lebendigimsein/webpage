@@ -13,7 +13,7 @@ Und das alles ist in dauernder Bewegung, ist eine nie aufhörende Veränderung i
 Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.  
 Alles andere ergibt sich aus dem.
 
-Manchmal ist mein Leben so – lebendig.  
+Manchmal «lebe ich» das Leben so.  
 Und dann wieder anders.  
 Veränderung.  
 Die er*lebt werden will.  
