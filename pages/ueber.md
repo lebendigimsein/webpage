@@ -4,17 +4,19 @@ title: Über
 permalink: /ueber
 ---
 
-Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen unseres Körpers direkt und unvermittelt wahrgenommenen Leben – gefühltes, gehörtes, geschmecktes, gerochenes, gespürtes Sein.  
-Präsenz. Bewusst sein.
+Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen direkt und unvermittelt wahrgenommenen Leben – Gefühle, Töne, Geschmack, Geruch, Empfindungen des Seins.  
+Präsenz.  
+Bewusst sein.
 
-Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen. Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint, unverstellt, ungehindert, vollständig.  
-Der Witz ist nämlich: etwas anderes gibt es nicht!  
+Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen.  
+Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint – unverstellt, ungehindert, vollständig.  
+Der Witz ist sowieso: etwas anderes gibt es nicht!  
 Das alles ist eine andauernde Bewegung, eine nie aufhörende Veränderung im ewig jetzigen Moment.  
 Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.  
 Alles andere ergibt sich aus dem.
 
-Manchmal «lebe ich» das Leben so.  
-Und dann wieder anders.  
+Manchmal «lebe ich» das Leben auf diese Weise.  
+Und dann auch wieder nicht.  
 Veränderung.  
 Die bewusst werden will.  
 Nicht mehr als das.  
@@ -28,9 +30,10 @@ Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 ## Inhalte
 * Gedichte
 * Nicht-Dualität – Advaita
-* Selbst-Ent-Deckung & Selbst-Ent-Wicklung
-* Inspirierende Entdeckungen
-* Indigene Spiritualität
+* Selbst-ent-deckung & Selbst-ent-wicklung
+* Selbst bewusst sein
+* Inspirierende Wegweisser
+* Spiritualität der mehr-als-menschlichen Gemeinschaft
 
 
 ## Kontakt
