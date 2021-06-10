@@ -17,7 +17,7 @@ Alles andere ergibt sich aus dem.
 
 Manchmal «lebe ich» das Leben auf diese Weise.  
 Und dann auch wieder nicht.  
-Auch das Teil der ständigen Veränderung.  
+Auch das ist Teil der ständigen Veränderung.  
 Die bewusst werden will.  
 Nicht mehr als das.  
 Aber auch nicht weniger!
