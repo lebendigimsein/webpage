@@ -22,7 +22,7 @@ Die bewusst werden will.
 Nicht mehr als das.  
 Aber auch nicht weniger!
 
-Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht meine er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweisser stosse.
+Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht meine er\*lebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweiser stosse.
 
 Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
@@ -32,7 +32,7 @@ Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 * Nicht-Dualität – Advaita
 * Selbst-ent-deckung & Selbst-ent-wicklung
 * Selbst bewusst sein
-* Inspirierende Wegweisser
+* Inspirierende Wegweiser
 * Spiritualität der mehr-als-menschlichen Gemeinschaft
 
 
