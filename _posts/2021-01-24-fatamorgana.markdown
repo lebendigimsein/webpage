@@ -32,6 +32,6 @@ Glück niemals zu finden
 So  
 
 
-„Das Problem, das wir zu lösen versuchen,  
-hat es in Wirklichkeit niemals gegeben.“  
+_«Das Problem, das wir zu lösen versuchen,  
+hat es in Wirklichkeit niemals gegeben.»_  
 Joan Tollifson

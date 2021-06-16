@@ -38,6 +38,27 @@ ol, ul {
 .container-main {
     margin-top: 30px;
     min-height: calc(75vh);
+
+    .container-post {
+        display: flex;
+        flex-direction: column;
+        min-height: calc(75vh);
+
+        .post-title {
+            text-align: left;
+        }
+
+        .post-info {
+            margin-top: auto;
+            font-size: 0.7em;
+            line-height: 14px;
+
+            .post-date {
+                margin-bottom: 12px;
+            }
+        }
+    }
+
 }
 
 li.header-main-nav-item > a.active:hover {
@@ -46,10 +67,6 @@ li.header-main-nav-item > a.active:hover {
 
 li.header-main-nav-item > a.active span {
     border-bottom: 1px solid  #000000;
-}
-
-.post-title {
-    text-align: left;
 }
 
 .post-content p,
@@ -70,15 +87,6 @@ li.header-main-nav-item > a.active span {
 
 ul.categories-list li {
     list-style-type: none;
-}
-
-.post-info {
-    padding-top: 20px;
-    font-size: 0.7em;
-    line-height: 14px;
-    .post-date {
-        margin-bottom: 20px;
-    }
 }
 
 .print-post-author {
