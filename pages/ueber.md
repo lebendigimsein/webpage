@@ -38,7 +38,6 @@ Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
 ## Kontakt
 email: [fflehnert@pm.me](mailto:fflehnert@pm.me?subject=lebendig-im-sein.ch)  
-telegram: [t.me/lebendig_im_sein](https://t.me/lebendig_im_sein)
 
 
 ## Technisches und Dank
