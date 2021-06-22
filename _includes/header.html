@@ -1,22 +1,22 @@
 <div class="header-info">
-  <span class="header-info-name">{{ site.title }}&nbsp;</span>
-  <span class="header-info-desc">{{ site.description }}</span>
+    <a href="{{ site.baseurl }}"><span class="header-info-name">{{ site.title }}&nbsp;</span></a>
+    <span class="header-info-desc">{{ site.description }}</span>
 </div>
 <nav class="header-nav">
-  <ul class="header-main-nav">
-    {% for item in site.data.menus %}
-    <li class="header-main-nav-item">
-      {% assign testUrl =  '/' | append: item.url | append: '/' %}
-      <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}" class="menu-item {% if page.url == testUrl or page.url == '/' and '' == item.url %}active{% endif %}">
-        <span>
-            {% if item.default %}
-              {{site.data.lang[site.language][item.default]}}
-            {% else %}
-              {{ item.title }}
-            {% endif %}
-        </span>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
+    <ul class="header-main-nav">
+        {% for item in site.data.menus %}
+        <li class="header-main-nav-item">
+            {% assign testUrl = '/' | append: item.url %}
+            <a href="{% if item.absoluteUrl != true %}{{ site.baseurl }}/{% endif %}{{ item.url }}" class="menu-item{% if testUrl == page.url %} active{% endif %}">
+                <span>
+                    {% if item.default %}
+                        {{site.data.lang[site.language][item.default]}}
+                    {% else %}
+                        {{ item.title }}
+                    {% endif %}
+                </span>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 </nav>
