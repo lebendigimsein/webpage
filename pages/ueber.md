@@ -4,20 +4,19 @@ title: Über
 permalink: /ueber
 ---
 
-Lebendigkeit wird er\*lebt, entsteht im mit allen Sinnen direkt und unvermittelt wahrgenommenen Leben – Gefühle, Töne, Geschmack, Geruch, Empfindungen des Seins.  
+Lebendigkeit entsteht in mir, wenn ich er-lebe, im mit allen Sinnen direkt und unvermittelt wahrgenommenen Leben – Gefühle, Töne, Geschmack, Geruch, Empfindungen des Seins.  
 Präsenz.  
 Bewusst sein.
 
-Wach, aufmerksam und mutig lasse ich Er\*leben ungefiltert durch mich hindurchziehen.  
+Wach, aufmerksam und mutig lasse ich Erleben ungefiltert durch mich hindurchziehen.  
 Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint – unverstellt, ungehindert, vollständig.  
 Der Witz ist sowieso: etwas anderes gibt es nicht!  
 Das alles ist eine andauernde Bewegung, eine nie aufhörende Veränderung im ewig jetzigen Moment.  
-Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.  
+Bereit mich dem hinzugeben, lebe ich, was ist.  
 Alles andere ergibt sich aus dem.
 
 Es kommt vor, dass ich das Leben auf diese Weise lebe.  
-Und dann auch immer wieder nicht.  
-Auch das ändert sich, entsteht, geht, fliesst.  
+Jedoch auch das ändert sich, entsteht, geht, fliesst.  
 Will bewusst werden.  
 Nicht mehr als das.  
 Aber auch nicht weniger!
