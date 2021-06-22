@@ -15,10 +15,10 @@ Das alles ist eine andauernde Bewegung, eine nie aufhörende Veränderung im ewi
 Bereit mich dem hinzugeben, lebe ich was ist und bin lebendig.  
 Alles andere ergibt sich aus dem.
 
-Manchmal «lebe ich» das Leben auf diese Weise.  
-Und dann auch wieder nicht.  
-Auch das ist Teil der ständigen Veränderung.  
-Die bewusst werden will.  
+Es kommt vor, dass ich das Leben auf diese Weise lebe.  
+Und dann auch immer wieder nicht.  
+Auch das ändert sich, entsteht, geht, fliesst.  
+Will bewusst werden.  
 Nicht mehr als das.  
 Aber auch nicht weniger!
 
