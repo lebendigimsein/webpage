@@ -1,6 +1,7 @@
 en:
   menu_index: 'Index'
   menu_category: 'Categories'
+  menu_links: 'Links'
   menu_about: 'About'
   paginator_previous: 'Previous'
   paginator_pages: 'Page: '
@@ -18,6 +19,7 @@ en:
 de:
   menu_index: 'Blog'
   menu_category: 'Kategorien'
+  menu_links: 'Links'
   menu_about: 'Über'
   paginator_previous: 'vorherige'
   paginator_pages: 'Seite: '
@@ -35,6 +37,7 @@ de:
 es:
   menu_index: 'Índice'
   menu_category: 'Categorías'
+  menu_links: 'Links'
   menu_about: 'Sobre'
   paginator_previous: 'Anterior'
   paginator_pages: 'Página: '
@@ -52,6 +55,7 @@ es:
 it:
   menu_index: 'Indice'
   menu_category: 'Categorie'
+  menu_links: 'Links'
   menu_about: 'About'
   paginator_previous: 'Precedente'
   paginator_pages: 'Pagina: '
@@ -69,6 +73,7 @@ it:
 fr:
   menu_index: 'Indice'
   menu_category: 'Catégories'
+  menu_links: 'Links'
   menu_about: 'Sur'
   paginator_previous: 'Précédent'
   paginator_pages: 'Page: '
@@ -86,6 +91,7 @@ fr:
 ja:
   menu_index: 'ホーム'
   menu_category: '分類'
+  menu_links: 'Links'
   menu_about: '私について'
   paginator_previous: '前のページ'
   paginator_pages: 'ページ数：'
@@ -103,6 +109,7 @@ ja:
 pt:
   menu_index: 'Índice'
   menu_category: 'Categorias'
+  menu_links: 'Links'
   menu_about: 'Sobre'
   paginator_previous: 'Anterior'
   paginator_pages: 'Página: '
@@ -120,6 +127,7 @@ pt:
 zh-cn:
   menu_index: '首页'
   menu_category: '分类'
+  menu_links: 'Links'
   menu_about: '关于我'
   paginator_previous: '前一页'
   paginator_pages: '页数：'
@@ -137,6 +145,7 @@ zh-cn:
 zh-tw:
   menu_index: '首頁'
   menu_category: '分類'
+  menu_links: 'Links'
   menu_about: '關於我'
   paginator_previous: '前一頁'
   paginator_pages: '頁數：'
@@ -154,6 +163,7 @@ zh-tw:
 tr:
   menu_index: 'Dizin'
   menu_category: 'Kategoriler'
+  menu_links: 'Links'
   menu_about: 'Hakkında'
   paginator_previous: 'Geri'
   paginator_pages: 'Sayfa: '

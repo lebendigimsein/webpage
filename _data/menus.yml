@@ -4,5 +4,8 @@
 - default: menu_category
   url: 'categories'
 
+- default: menu_links
+  url: 'links'
+
 - default: menu_about
   url: 'ueber'
