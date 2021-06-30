@@ -35,4 +35,5 @@ Von nirgendwo nach nirgendwann
 Du kannst das alles sein  
 Dieses Fliessen  
 Diese ununterbrochene Bewegung  
+Dieser ewige Tanz  
 Du wirst es aber niemals einfangen
