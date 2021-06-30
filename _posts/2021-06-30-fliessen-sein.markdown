@@ -15,16 +15,16 @@ Als müsstest du es nur richtig machen
 Als müsstest du es nur in den Griff bekommen  
 Als wäre alles nur eine Frage  
 Deiner Entscheidung  
-Deinem Denken, Sprechen, Fühlen, Handeln  
+Deines Denkens, Sprechens, Fühlens, Handelns  
 Deiner Heilung  
 Deiner Weisheit  
 Deiner Liebe  
-Deinem Mitgefühl  
-Deinem Verstehen  
+Deines Mitgefühls  
+Deines Verstehens  
 Und als letztendlicher Krönung  
 Deiner Erleuchtung
 
-Das musst das Leben gar nicht einfangen  
+Du musst das Leben gar nicht einfangen  
 Weil du das Leben bist  
 All das hier  
 So wie dieses ewige HierJetzt ist  
