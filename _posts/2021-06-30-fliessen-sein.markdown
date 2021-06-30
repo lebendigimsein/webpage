@@ -2,7 +2,7 @@
 layout: post
 title: Fliessen sein
 date: 2021-06-30
-last_modified_at:
+last_modified_at: 2021-06-30
 categories: [Gedichte]
 tags: []
 ---
@@ -25,9 +25,9 @@ Und als letztendlicher Krönung
 Deiner Erleuchtung
 
 Du musst das Leben gar nicht einfangen  
-Weil du das Leben bist  
+Weil du selbst das Leben bist  
 All das hier  
-So wie dieses ewige HierJetzt ist  
+Genau dieses ewige HierJetzt     
 Das ganze volle satte Sein  
 Das fliesst und fliesst und fliesst  
 Von nirgendwo nach nirgendwann
