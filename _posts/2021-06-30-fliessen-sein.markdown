@@ -32,7 +32,7 @@ Das ganze volle satte Sein
 Das fliesst und fliesst und fliesst  
 Von nirgendwo nach nirgendwann
 
-Du kannst das das alles sein  
+Du kannst das alles sein  
 Dieses Fliessen  
 Diese ununterbrochene Bewegung  
 Du wirst es aber niemals einfangen
