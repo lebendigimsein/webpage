@@ -1,95 +1,45 @@
-# Jekyll Paper for Github
+# lebendig-im-sein.ch
 
-![Jekyll Paper](./favicon.ico)
+Lebendigkeit entsteht in mir, wenn ich er-lebe, im mit allen Sinnen direkt und unvermittelt wahrgenommenen Leben – Gefühle, Töne, Geschmack, Geruch, Empfindungen des Seins.  
+Präsenz.  
+Bewusst sein.
 
-English | [简体中文](./README-CN.md)
+Wach, aufmerksam und mutig lasse ich Erleben ungefiltert durch mich hindurchziehen.  
+Genau das, was ist, alles, was sich mir zeigt, so, wie es erscheint – unverstellt, ungehindert, vollständig.  
+Der Witz ist sowieso: etwas anderes gibt es nicht!  
+Das alles ist eine andauernde Bewegung, eine nie aufhörende Veränderung im ewig jetzigen Moment.  
+Bereit mich dem hinzugeben, lebe ich, was ist.  
+Alles andere ergibt sich aus dem.
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+Es kommt vor, dass ich das Leben auf diese Weise lebe.  
+Jedoch auch das ändert sich, entsteht, geht, fliesst.  
+Will bewusst werden.  
+Nicht mehr als das.  
+Aber auch nicht weniger!
 
-Jekyll Paper for Github is the sub-project for [Jekyll Paper][jekyll-paper], it only contains Github Pages environment supported plugins.
+Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht meine erlebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweiser stosse.
 
-This is a [demo website](https://www.ghosind.com) for Jekyll Paper for Github.
+Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
-## Features
 
-- Responsive
-- Paginate
-- RSS
-- Sitemap
-- Custom 404 page
-- SASS
-- Internationalization
-- Configurable navigation menu
-- SEO optimization
-- Category Index
-- Comments (Disqus)
-- Mathematics (MathJax)
-- Diagrams (Mermaid)
+## Inhalte
+* Gedichte
+* Nicht-Dualität – Advaita
+* Selbst-ent-deckung & Selbst-ent-wicklung
+* Selbst bewusst sein
+* Inspirierende Wegweiser
+* Spiritualität der mehr-als-menschlichen Gemeinschaft
 
-## Getting Start
 
-Jekyll Paper for Github is easy to create your own blog. You can create your blog by four steps only!
+## Kontakt
+email: [fflehnert@pm.me](mailto:fflehnert@pm.me?subject=lebendig-im-sein.ch)  
 
-1. Fork your own copy of [Jekyll Paper for Github][jekyll-paper-github] repository to your Github account.
-2. Open setting page of your repository.
-3. Change repository name to `your_github_username.github.io`.
-4. Enter `your_github_name.github.io` in your browser.
 
-## Add New Posts
+## Technisches und Dank
+Dieser Blog wurde mit [Jekyll](https://jekyllrb.com){:target="_blank"} erstellt, für einen Web-Entwickler wie mich eine grossartige Sache.
 
-You can add new posts at any time after you had your own blog. Create a new post need to add a new file in `_posts` directory, and the file name must follow the convention `YYYY-MM-DD-name-of-post.md`.
+Das ursprüngliche, von mir leicht veränderte Theme [Jekyll-Paper-Github](https://github.com/ghosind/Jekyll-Paper-Github){:target="_blank"} stammt von [Chen Su](https://www.ghosind.com){:target="_blank"} aus Shanghai.
 
-## Custom Navigation Menu
+Gehostet wird diese Seite kostenlos auf GitHub mit [GitHub Pages](https://pages.github.com/){:target="_blank"}.
 
-You can add or update navigation menu items in `_data/menus.yml` file. In the configuration file, you need set title and URL for every navigation menu item.
-
-### Example
-
-```yml
-- title: "Index"
-  url:   ""
-
-- title: "About"
-  url:   "about"
-```
-
-## Supported Languages
-
-Jekyll Paper for Github has supported the following languages, please set language in `language` section of `_config.yml` file (default `language: en`). I'm anticipating you to help me improve the quality of translations and add more languages. The languages list by alphabets of its language code.
-
-- English
-- Deutsche (German)
-- Español (Spanish)
-- Français (French)
-- 日本語 (Japanese)
-- Português (Portuguese)
-- 简体中文 (Simplified Chinese)
-- 繁體中文 (Traditional Chinese)
-
-## Screenshots
-
-The home page:
-
-![Index Screenshot](./assets/images/index-screenshot.png)
-
-The post page:
-
-![Post Screenshot](./assets/images/post-screenshot.png)
-
-The category page:
-
-![Category Screenshot](./assets/images/category-screenshot.png)
-
-## License
-
-Jekyll Paper for Github was released under MIT license.
-
-## Contributing
-
-If you would like to make Jekyll Paper for Github better, you can create a new pull request in [Jekyll Paper Github Page][jekyll-paper-github].
-
-If you have any questions or suggestions, you can create an issue on [Jekyll Paper for Github Issues][jekyll-paper-github-issues].
-
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+Ich danke allen, die diese Projekte entwickelt haben und ihr Wissen und Können dafür einsetzen, sie zu unterhalten!

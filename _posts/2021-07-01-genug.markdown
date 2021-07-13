@@ -2,7 +2,7 @@
 layout: post
 title: Genug
 date: 2021-07-01
-last_modified_at: 2021-07-01
+last_modified_at: 2021-07-02
 categories: [Gedichte]
 tags: []
 ---
@@ -30,11 +30,9 @@ Mich ganz sanft in die Arme nimmt
 Mich wiegt und tröstet  
 Mir zuflüstert  
 Alles ist gut  
-Du bist daheim  
-Für immer  
+Du bist hier daheim  
 Ich liebe dich
 
 Heute schaue ich nur  
 Ob es das nicht  
-Hier und jetzt  
 Sowieso schon tut
