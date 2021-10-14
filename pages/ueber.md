@@ -16,13 +16,11 @@ Bereit mich dem hinzugeben, lebe ich, was ist.
 Alles andere ergibt sich aus dem.
 
 Es kommt vor, dass ich das Leben auf diese Weise lebe.  
-Jedoch auch das ändert sich, entsteht, geht, fliesst.  
-Will bewusst werden.  
-Nicht mehr als das.  
-Aber auch nicht weniger!
+Oft auch nicht – das ändert sich, entsteht, geht, fliesst, kommt, geht.  
+Und wenn ich hier jetzt bin, ist mir das auch egal – in dem Moment ist da niemand, den das interessieren würde.
 
-Und manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite. Und auch wenn eine Landkarte nicht meine erlebte Reise ersetzt, freue ich mich immer, wenn ich im richtigen Moment auf genau den nächsten wichtigen Wegweiser stosse.
-
+Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite.  
+Und auch wenn eine Landkarte keine erlebte Reise ersetzt, freue ich mich immer, wenn ich selbst im richtigen Moment in den  nächsten, genau richtigen Wegweiser hineinlauf.  
 Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
 
@@ -33,6 +31,7 @@ Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 * Selbst bewusst sein
 * Inspirierende Wegweiser
 * Spiritualität der mehr-als-menschlichen Gemeinschaft
+* Natur
 
 
 ## Kontakt
