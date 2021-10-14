@@ -20,7 +20,7 @@ Oft auch nicht – das ändert sich, entsteht, geht, fliesst, kommt, geht.
 Und wenn ich hier jetzt bin, ist mir das auch egal – in dem Moment ist da niemand, den das interessieren würde.
 
 Manchmal drängt es mich zum Schreiben – Gedichte, vielleicht ein paar mich selbst inspirierende Sätze, vielleicht von meiner Begeisterung über ein Buch, einen Film, eine Webseite.  
-Und auch wenn eine Landkarte keine erlebte Reise ersetzt, freue ich mich immer, wenn ich selbst im richtigen Moment in den  nächsten, genau richtigen Wegweiser hineinlauf.  
+Und auch wenn eine Landkarte keine erlebte Reise ersetzt, freue ich mich immer, wenn ich selbst im richtigen Moment in den  nächsten, genau richtigen Wegweiser hineinlaufe.  
 Und wer weiss, vielleicht ist in dem hier auch etwas für dich dabei ...
 
 
