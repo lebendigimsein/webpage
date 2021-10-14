@@ -7,7 +7,8 @@ categories: [Gedichte]
 tags: []
 ---
 
-Es ist nicht dunkel und hell  
+Es ist nicht  
+Dunkel und hell  
 Schatten und Licht  
 Böse und Gut  
 Nein und Ja  
@@ -30,7 +31,7 @@ Es ist das Ganze
 Das sich zeigt  
 Hier jetzt  
 Wie es ist  
-Unerfassbar  
+Unerfassbar und  
 Zutiefst vertraut  
 Ungeteilt, unbenannt, nicht-zwei
 
