@@ -15,6 +15,7 @@ Dann innehalten
 Horchen  
 Tasten  
 Ob etwas schwingt  
-Ganz fein nur vielleicht  
+Ganz fein  
+Nur vielleicht  
 Sich zu erkennen gibt  
 Wortlos antwortet
