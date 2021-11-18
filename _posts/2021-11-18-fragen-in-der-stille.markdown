@@ -7,14 +7,14 @@ categories: [Gedichte]
 tags: []
 ---
 
-Im Kopf nicht richtig  
+Zweifelhafte Trancegeschichten  
 Drum Stille  
 Und Fragen  
 Kopfsprung ins All  
 Dann innehalten  
 Horchen  
 Tasten  
-Ob etwas mitschwingt  
+Ob etwas schwingt  
 Ganz fein nur vielleicht  
 Sich zu erkennen gibt  
 Wortlos antwortet
