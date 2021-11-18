@@ -17,5 +17,5 @@ Tasten
 Ob etwas schwingt  
 Ganz fein  
 Nur vielleicht  
-Sich zu erkennen gibt  
+Ahnen lässt  
 Wortlos antwortet
