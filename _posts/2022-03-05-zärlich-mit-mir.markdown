@@ -14,5 +14,5 @@ Dann würden wir
 Mit zärtlichen Bewegungen  
 Unsere eigene Hand streicheln  
 Wieder in Berührung kommen  
-Und uns aus dem Traumraum  
-Vielleicht wieder in's Jetzt befördern
+Uns aus dem Traumraum  
+Wieder in's Jetzt befördern
