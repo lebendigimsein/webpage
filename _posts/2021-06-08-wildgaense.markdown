@@ -24,7 +24,7 @@ die Berge und die Flüsse.
 Währenddessen sind die Wildgänse, hoch in der klaren blauen Luft,  
 wieder auf dem Heimweg.
 
-Wer auch immer du bist, wie einsam du auch sei magst,  
+Wer auch immer du bist, wie einsam du auch sein magst,  
 die Welt bietet sich deiner Fantasie an,  
 ruft nach dir wie die Wildgänse, rau und aufregend –  
 immer und immer wieder verkündet sie deinen Platz  
