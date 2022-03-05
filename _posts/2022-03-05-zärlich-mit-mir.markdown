@@ -7,12 +7,12 @@ categories: [Gedichte]
 tags: []
 ---
 
-Vielleicht könnten wir ja
-Das Display auch
-In die Handfläche einsetzen lassen
-Dann würden wir
-Mit zärtlichen Bewegungen
-Unsere eigene Hand streicheln
-Wieder in Berührung kommen
-Uns aus dem Traumraum
+Vielleicht könnten wir ja  
+Das Display auch  
+In die Handfläche einsetzen lassen  
+Dann würden wir  
+Mit zärtlichen Bewegungen  
+Unsere eigene Hand streicheln  
+Wieder in Berührung kommen  
+Uns aus dem Traumraum  
 Wieder in das Jetzt befördern
