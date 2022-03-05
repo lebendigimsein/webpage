@@ -15,4 +15,4 @@ Mit zärtlichen Bewegungen
 Unsere eigene Hand streicheln  
 Wieder in Berührung kommen  
 Und uns aus dem Traumraum  
-Vielleicht wieder in das Jetzt befördern
+Vielleicht wieder in's Jetzt befördern
