@@ -24,7 +24,8 @@ Statistisch gesehen
 
 Doch schon jetzt  
 Lässt der Tod seine Boten sich offen zeigen und  
-Mich packt das Grauen  
+Mich packt das Grauen
+
 Zu wenig am prallen Leben teilgehabt  
 Zu wenig gefühlt und geliebt  
 Zu wenig Abenteuer, Sex, Extase  
@@ -53,6 +54,7 @@ Das Glück des Lebens
 In diesem einzigen Augenblick zu erleben  
 In dieser Ewigkeit  
 So voller Werden und Vergehen  
-Wie es pulsiert, vibriert, glitzert und schimmert  
+Wie es pulsiert, vibriert, glitzert und schimmert
+
 Genau hier  
 Genau jetzt
