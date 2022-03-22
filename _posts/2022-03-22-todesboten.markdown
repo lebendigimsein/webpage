@@ -10,7 +10,8 @@ tags: []
 Immer aus dem Hinterhalt!  
 Leise, schnell, brutal, eiskalt  
 Gnadenlos herzlähmend  
-Schickt der Tod seine Boten  
+Schickt der Tod seine Boten
+
 Ich werde alt  
 Mein Körper kraftloser und schmerzvoller  
 Meine Sinne schwächer  
