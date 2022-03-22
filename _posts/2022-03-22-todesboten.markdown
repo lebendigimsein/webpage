@@ -40,7 +40,7 @@ So vieles lässt sich nicht mehr nachholen
 Ist schon zu spät
 
 Gedankenboten  
-Zweifelhafe Ratgeber  
+Zweifelhafte Ratgeber  
 Magiere dunkler Illusion
 
 Doch wenn ihr das nächste Mal  
