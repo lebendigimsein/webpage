@@ -33,7 +33,8 @@ Zu wenig Erfahrung, Erfüllung, Entfaltung
 Zu selten so richtig lebendig gefühlt  
 Zu wenig Berufung  
 Zu wenig Erleuchtung  
-Zu wenig Pures Glück  
+Zu wenig Pures Glück
+
 So vieles lässt sich nicht mehr nachholen  
 Jetzt ist es schon zu spät
 
