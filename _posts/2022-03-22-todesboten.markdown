@@ -53,6 +53,6 @@ Das Glück des Lebens
 In diesem einzigen Augenblick zu erleben  
 In dieser Ewigkeit  
 So voller Werden und Vergehen  
-Wie es pulsiert, vibriert und glitzert und schimmert  
+Wie es pulsiert, vibriert, glitzert und schimmert  
 Genau hier  
 Genau jetzt
