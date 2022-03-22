@@ -36,7 +36,7 @@ Zu wenig Erleuchtung
 Zu wenig Pures Glück
 
 So vieles lässt sich nicht mehr nachholen  
-Jetzt ist es schon zu spät
+Ist schon zu spät
 
 Gedankenboten  
 Zweifelhafe Ratgeber  
