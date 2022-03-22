@@ -13,10 +13,11 @@ Gnadenlos herzlähmend
 Schickt der Tod seine Boten
 
 Ich werde alt  
-Mein Körper kraftloser und schmerzvoller  
-Meine Sinne schwächer  
-Mein Geist vernebelter  
-Der Rest des Lebens wird kürzer dauern und  
+Der Körper kraftloser, schmerzvoller  
+Die Sinne unschärfer  
+Das Denken sprunghafter  
+Allein das Herz, das gewinnt an Tiefe  
+Doch der Rest des Lebens wird kürzer dauern und  
 Ich werde sterben!  
 Wahrscheinlich nicht heute, nicht morgen  
 Nicht diese oder die kommende Woche  
@@ -34,14 +35,14 @@ Zu wenig Erfahrung, Erfüllung, Entfaltung
 Zu selten so richtig lebendig gefühlt  
 Zu wenig Berufung  
 Zu wenig Erleuchtung  
-Zu wenig Pures Glück
+Zu wenig pures Glück
 
 So vieles lässt sich nicht mehr nachholen  
 Ist schon zu spät
 
 Gedankenboten  
 Zweifelhafte Ratgeber  
-Magiere dunkler Illusion
+Die Magier dunkler Illusion
 
 Doch wenn ihr das nächste Mal  
 Hinter der Ecke lauert  
@@ -51,8 +52,8 @@ Hier seid ihr genau richtig
 Reist mich aus dem Schlaf!  
 Ruft mich, erinnert mich  
 Zwingt mich  
-Wirklich zu schauen und  
-Das Glück des Lebens  
+Wirklich zu schauen  
+Und das Glück des Lebens  
 In diesem einzigen Augenblick zu erleben  
 In dieser Ewigkeit  
 So voller Werden und Vergehen  
