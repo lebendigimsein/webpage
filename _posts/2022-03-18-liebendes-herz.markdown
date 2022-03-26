@@ -10,7 +10,7 @@ tags: []
 Ganz schön lange inzwischen  
 Hält uns das Leben den Spiegel vor  
 Diesen uralten, blindfleckigen  
-Drückt uns
+Drückt uns  
 Eine rostige Klinge an die Kehle und  
 Zwingt uns  
 Hinzuschauen  
