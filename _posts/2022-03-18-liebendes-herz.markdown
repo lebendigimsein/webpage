@@ -15,18 +15,17 @@ Eine rostige Klinge an die Kehle und
 Zwingt uns  
 Hinzuschauen  
 Wehe du schliesst die Augen!  
-Sperrt uns zum Aufwärmen  
-Wie Laborratten  
-Zwei Jahre in eine «Pandemie»  
+Zwei Jahre Weltgrippe zum Aufwärmen  
+Eingesperrt wie Laborratten  
 Und dann – übergangslos  
 Folgt Krieg gleich nebenan  
 Mittelalterszenarien  
 Ziemlich unbekanntes Gebiet  
 Kontrollverlust  
 Maximale Ohnmacht  
-Wo wir doch sonst immer wissen  
-Wo's langgeht  
-Wir stolpern erst einmal  
+Wo wir doch sonst immer zu wissen meinen  
+Wo's lang geht  
+Nun stolpern wir  
 Durch's Labyrinth  
 Wenn es so weiter geht  
 Könnten wir nackt dastehen  
@@ -35,6 +34,6 @@ Mit nur noch einer Sache
 Die das alles überleben kann:  
 Ein offenes Herz  
 Unendlicher Raum  
-Ohne überlebst du nicht  
+Ohne überlebt niemand  
 Mit stirbst du  
 In Frieden
