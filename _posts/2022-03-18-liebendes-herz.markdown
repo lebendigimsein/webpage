@@ -13,8 +13,7 @@ Diesen uralten, blindfleckigen
 Drückt uns  
 Eine rostige Klinge an die Kehle und  
 Zwingt uns  
-Hinzuschauen  
-Wehe du schliesst die Augen!  
+Hinzuschauen – wehe du schliesst die Augen!  
 Zwei Jahre Weltgrippe zum Aufwärmen  
 Eingesperrt wie Laborratten  
 Und dann – übergangslos  
