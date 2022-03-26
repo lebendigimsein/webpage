@@ -1,63 +1,24 @@
 ---
 layout: post
-title: Todesboten
-date: 2022-03-22
+title: Das Lied der Amsel
+date: 2022-03-25
 last_modified_at:
 categories: [Gedichte]
 tags: []
 ---
 
-Immer aus dem Hinterhalt!  
-Leise, schnell, brutal, eiskalt  
-Gnadenlos herzlähmend  
-Schickt der Tod seine Boten
-
-Ich werde alt  
-Der Körper kraftloser, schmerzvoller  
-Die Sinne unschärfer  
-Das Denken sprunghafter  
-Allein das Herz, das gewinnt an Tiefe  
-Doch der Rest des Lebens wird kürzer dauern und  
-Ich werde sterben!  
-Wahrscheinlich nicht heute, nicht morgen  
-Nicht diese oder die kommende Woche  
-Dieses Jahr oder Jahrzehnt  
-Statistisch gesehen
-
-Doch schon jetzt  
-Lässt der Tod seine Boten sich offen zeigen und  
-Mich packt das Grauen
-
-Zu wenig am prallen Leben teilgehabt  
-Zu wenig gefühlt und geliebt  
-Zu wenig Abenteuer, Sex, Extase  
-Zu wenig Erfahrung, Erfüllung, Entfaltung  
-Zu selten so richtig lebendig gefühlt  
-Zu wenig Berufung  
-Zu wenig Erleuchtung  
-Zu wenig pures Glück
-
-So vieles lässt sich nicht mehr nachholen  
-Ist schon zu spät
-
-Gedankenboten  
-Zweifelhafte Ratgeber  
-Die Magier dunkler Illusion
-
-Doch wenn ihr das nächste Mal  
-Hinter der Ecke lauert  
-Lasst mich euch mit weit geöffneten Armen empfangen  
-Willkommen  
-Hier seid ihr genau richtig  
-Reist mich aus dem Schlaf!  
-Ruft mich, erinnert mich  
-Zwingt mich  
-Wirklich zu schauen  
-Und das Glück des Lebens  
-In diesem einzigen Augenblick zu erleben  
-In dieser Ewigkeit  
-So voller Werden und Vergehen  
-Wie es pulsiert, vibriert, glitzert und schimmert
-
-Genau hier  
-Genau jetzt
+Wozu  
+Bin ich  
+Auf der Welt  
+Die Amsel auf dem First  
+Die ein Frühlingslied  
+So zauberhaft inbrünstig trällert  
+Dass ich lache  
+Fragt sich wohl nicht danach  
+Ist da  
+Sing ihr wunderschönes Lied  
+Tönt  
+Vielleicht ist es einfach das  
+Mein Lied singen  
+Tönen  
+Mein Ort sein
