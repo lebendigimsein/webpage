@@ -30,7 +30,7 @@ Wenn es so weiter geht
 Könnten wir nackt dastehen  
 Frierend, hungernd, erschöpft und krank  
 Mit nur noch einer Sache  
-Die das alles überleben kann:  
+Die das alles überstehen kann:  
 Ein offenes Herz  
 Unendlicher Raum  
 Ohne überlebt niemand  
