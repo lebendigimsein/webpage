@@ -17,7 +17,7 @@ Hinzuschauen – wehe du schliesst die Augen!
 Zwei Jahre Weltgrippe zum Aufwärmen  
 Eingesperrt wie Laborratten  
 Und dann – übergangslos  
-Folgt Krieg gleich nebenan  
+Krieg gleich nebenan  
 Mittelalterszenarien  
 Ziemlich unbekanntes Gebiet  
 Kontrollverlust  
