@@ -17,7 +17,7 @@ Hinzuschauen – wehe du schliesst die Augen!
 Zwei Jahre Weltgrippe zum Aufwärmen  
 Eingesperrt wie Laborratten  
 Und dann – übergangslos  
-Folgt Krieg gleich nebenan  
+Krieg gleich nebenan  
 Mittelalterszenarien  
 Ziemlich unbekanntes Gebiet  
 Kontrollverlust  
@@ -30,7 +30,7 @@ Wenn es so weiter geht
 Könnten wir nackt dastehen  
 Frierend, hungernd, erschöpft und krank  
 Mit nur noch einer Sache  
-Die das alles überleben kann:  
+Die das alles überstehen kann:  
 Ein offenes Herz  
 Unendlicher Raum  
 Ohne überlebt niemand  
