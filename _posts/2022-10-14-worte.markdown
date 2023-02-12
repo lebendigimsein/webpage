@@ -2,7 +2,7 @@
 layout: post
 title: Worte
 date: 2022-10-14
-last_modified_at:
+last_modified_at: 2022-10-22
 categories: [Gedichte]
 tags: []
 ---
@@ -12,23 +12,23 @@ Kann ich
 Das hier  
 In Worte fassen?  
 Namenlos  
-Unbeschreibbar  
+Unbegreifbar  
 Ganz  
 Können Worte überhaupt  
 Irgendetwas darüber sagen?  
 Etwas wahres  
 Wirkliches  
 Etwas, das stimmt?  
-Worte fragmentieren  
+Sie fragmentieren  
 Unterscheiden  
 Vereinfachen  
 Ordnen  
 Benennen  
-Zeichnen eine Karte  
-Die uns schnell näher ist  
+Zeichnen die Karte  
+Die sehr schnell vertrauter ist      
 Als das Gelände  
-Ganz vernarrt in das Bild  
-Erstarren wir  
+Ganz vernarrt in dieses Bild  
+Erstarren wir mit ihm  
 Denken darüber statt  
-ES uns zu  
-Er-Leben
+Uns zu trauen  
+Das hier einfach zu er-leben
