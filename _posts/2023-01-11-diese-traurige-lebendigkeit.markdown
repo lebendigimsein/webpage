@@ -33,5 +33,5 @@ So viel
 So oft  
 So lange  
 Dass all die Freude  
-Noch etwas warten müssen scheint  
+Wohl etwas warten muss   
 Mit dem Herausbrechen
