@@ -21,7 +21,7 @@ Zu inneren Purzelbäumen
 Und zugleich
 Ganz tief
 Lebt eine tiefe Traurigkeit
-Diese Schwere
+Schwere
 Wartet
 Auf die Zeit
 Sich ganz zu zeigen
