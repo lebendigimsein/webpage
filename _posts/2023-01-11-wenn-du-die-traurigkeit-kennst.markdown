@@ -1,3 +1,13 @@
+---
+layout: post
+title: Wenn du die Traurigkeit kennst
+author: Keine Ahnung, hab ich das geschrieben :-D?
+date: 2021-10-14
+last_modified_at:
+categories: [Gedichte]
+tags: []
+---
+
 Dein liebstes Parfüm
 Die Melancholie
 Der vertraute Duft
@@ -27,5 +37,5 @@ Winter und Frühling und Sommer leben
 Bis der Herbst allmählich
 Seinen Platz einnimmt
 Im bunten Jahresreigen
-Der Fülle 
+Der Fülle
 Deines Lebens
