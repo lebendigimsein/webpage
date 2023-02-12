@@ -12,13 +12,13 @@ Diese Lebensfreude
 So viel  
 So viel  
 So viel  
-Das ich umarmen möchte  
+Was ich umarmen möchte  
 Mich bewegt  
 Nährt  
 Erfrischt  
 Zum Lachen bringt  
-Zu inneren Purzelbäumen  
-Und zugleich  
+Inneren Purzelbäume   
+Zugleich  
 Ganz tief  
 Lebt eine tiefe Traurigkeit  
 Schwere  
