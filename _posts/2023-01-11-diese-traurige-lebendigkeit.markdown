@@ -19,8 +19,9 @@ Erfrischt
 Zum Lachen bringt  
 Inneren Purzelbäume   
 Zugleich  
-Ganz tief  
-Lebt eine tiefe Traurigkeit  
+Tief drin  
+Lebt diese schon vertraute  
+Traurigkeit und  
 Schwere  
 Wartet  
 Auf die Zeit  
@@ -34,4 +35,13 @@ So oft
 So lange  
 Dass all die Freude  
 Wohl etwas warten muss   
-Mit dem Herausbrechen
+Mit dem Herausbrechen  
+
+Oder – wer weiss  
+Vielleicht  
+Erlaubt die unglaubliche Freude auch  
+Heilung  
+Läd ein  
+Was meine Liebe braucht  
+Mein Strahlen  
+Mein Verbundensein

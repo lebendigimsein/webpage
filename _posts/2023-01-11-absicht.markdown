@@ -2,7 +2,7 @@
 layout: post
 title: Absicht
 date: 2023-01-11
-last_modified_at:
+last_modified_at: 2023-01-12
 categories: [Gedichte]
 tags: []
 ---
@@ -10,12 +10,12 @@ tags: []
 Du fragst mich 
 Nach meiner Absicht in  
 All meinem Streben?  
-Einfach endlich glücklich sein!  
-Und ganz langsam  
+Endlich glücklich werden!  
+Dann – ganz langsam  
 Scheu  
 Leise  
-Sacht auftauchend  
-... Annehmen ...  
+Sacht nur auftauchend  
+... Annehmen  
 Das Leben  
 Das ich bin  
 Endlich umarmen  
@@ -28,7 +28,7 @@ Fühle
 Denke  
 Empfinde  
 Alles Glück  
-Alle Verzweiflung  
+All die Verzweiflung  
 Alle Einsamkeit  
 All die Verbundenheit  
 Momente tiefer Klarheit  
