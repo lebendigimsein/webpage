@@ -2,7 +2,7 @@
 layout: post
 title: Komm runter!
 date: 2021-06-22
-last_modified_at:
+last_modified_at: 2023-01-12
 categories: [Gedichte]
 tags: []
 ---
@@ -18,7 +18,8 @@ Zu blicken
 Nein  
 Zu steigen  
 In deinen seltsam unvertrauten Körper  
-Dunkel, voller Ahnungen  
+Dunkel  
+Voller Ahnungen  
 In dieses vermaledeite Herz  
 Das im Verborgenen schmerzt  
 In diese volle, satte, unvorhersehbare  
