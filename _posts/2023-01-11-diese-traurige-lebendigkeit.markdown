@@ -39,7 +39,7 @@ Mit dem Herausbrechen
 
 Oder – wer weiss  
 Vielleicht  
-Erlaubt die unglaubliche Freude auch  
+Erlaubt unglaubliche Freude  
 Heilung  
 Läd ein  
 Was meine Liebe braucht  
