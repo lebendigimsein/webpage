@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wenn du die Traurigkeit kennst
-author: Keine Ahnung, hab ich das geschrieben 🤔?
 date: 2021-10-14
 last_modified_at:
 categories: [Gedichte]
