@@ -15,7 +15,7 @@ Als müsstest du es nur richtig machen
 Als müsstest du es nur in den Griff bekommen  
 Als wäre alles nur eine Frage  
 Deiner Entscheidung  
-Deines Denkens, Sprechens, Fühlens, Handelns  
+Deines Denkens, Sprechens, Fühlens, Tuns  
 Deiner Heilung  
 Deiner Weisheit  
 Deiner Liebe  
