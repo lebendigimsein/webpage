@@ -2,7 +2,7 @@
 layout: post
 title: Diese traurige Lebendigkeit
 date: 2023-01-11
-last_modified_at:
+last_modified_at: 2023-01-12
 categories: [Gedichte]
 tags: []
 ---
@@ -20,7 +20,7 @@ Zum Lachen bringt
 Inneren Purzelbäume   
 Zugleich  
 Tief drin  
-Lebt diese schon vertraute  
+Lebt diese so vertraute  
 Traurigkeit und  
 Schwere  
 Wartet  
