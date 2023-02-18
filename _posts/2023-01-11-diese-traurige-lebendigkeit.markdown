@@ -2,7 +2,7 @@
 layout: post
 title: Diese traurige Lebendigkeit
 date: 2023-01-11
-last_modified_at: 2023-01-12
+last_modified_at: 2023-01-18
 categories: [Gedichte]
 tags: []
 ---
@@ -18,6 +18,7 @@ Nährt
 Erfrischt  
 Zum Lachen bringt  
 Inneren Purzelbäume   
+
 Zugleich  
 Tief drin  
 Lebt diese so vertraute  
