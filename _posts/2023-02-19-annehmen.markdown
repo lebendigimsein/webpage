@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Absicht
+title: Annehmen
 date: 2023-02-19
 last_modified_at:
 categories: [Gedichte]
