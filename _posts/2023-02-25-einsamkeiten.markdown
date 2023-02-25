@@ -20,9 +20,8 @@ Schmiegt sich ganz fest an ihn
 Bis er diese Verlorenheit  
 Ganz tief im Herzen spüren kann  
 Und die heilsamen Tränen  
-Des Jungen weint und 
+Des Jungen weint ~~und~~ 
 Ihn mit seiner Ein-Samkeit  
 Umhüllt  
 Hält und  
 Tröstet
-
