@@ -17,11 +17,11 @@ Treffen sich die Einsamen
 Klettert der Junge  
 Auf seinen Schoss  
 Schmiegt sich ganz fest an ihn  
-Bis er diese Verlorenheit  
+Bis er seine Verlorenheit  
 Ganz tief im Herzen spüren kann  
-Und die heilsamen Tränen  
-Des Jungen weint   
+Die heilsamen Tränen  
+Des Jungen weint  
 Ihn mit seiner Ein-Samkeit  
-Umhüllt  
+Umhüllt und  
 Hält und  
 Tröstet
