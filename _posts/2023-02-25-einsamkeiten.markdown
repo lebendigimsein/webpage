@@ -20,8 +20,8 @@ Auf seinen Schoss
 Schmiegt sich fest an ihn  
 Wartet  
 Bis sich seine Verlorenheit  
-Tief im Herzen bemerkbar macht  
-Er die heilsamen Tränen  
+Tief im Herzen des anderen bemerkbar macht und 
+Der die heilsamen Tränen  
 Des Jungen weint  
 Ihn mit seiner Ein-Samkeit  
 Umhüllt und  
