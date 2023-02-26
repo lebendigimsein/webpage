@@ -2,24 +2,26 @@
 layout: post
 title: Einsamkeiten
 date: 2023-02-25
-last_modified_at:
+last_modified_at: 2023-02-26
 categories: [Gedichte]
 tags: []
 ---
 
 Zwei Einsamkeiten  
-Wohnen hier  
-Noch so kleiner Junge in  
+Leben hier  
+Dieser noch so kleine Junge in  
 Unglaublicher Verlorenheit und  
-Erwachsender Mann  
+Ein wachsender Mann  
 Allein mit sich  
-Treffen sich die Einsamen  
+Ab und zu begegnen sie sich  
+Dann  
 Klettert der Junge  
 Auf seinen Schoss  
 Schmiegt sich ganz fest an ihn  
-Bis er seine Verlorenheit  
-Ganz tief im Herzen spüren kann  
-Die heilsamen Tränen  
+Wartet  
+Bis sich seine Verlorenheit  
+Ganz tief im Herzen bemerkbar macht  
+Er die heilsamen Tränen  
 Des Jungen weint  
 Ihn mit seiner Ein-Samkeit  
 Umhüllt und  
