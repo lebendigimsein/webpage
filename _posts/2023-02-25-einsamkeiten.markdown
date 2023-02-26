@@ -17,10 +17,10 @@ Ab und zu begegnen sie sich
 Dann  
 Klettert der Junge  
 Auf seinen Schoss  
-Schmiegt sich ganz fest an ihn  
+Schmiegt sich fest an ihn  
 Wartet  
 Bis sich seine Verlorenheit  
-Ganz tief im Herzen bemerkbar macht  
+Tief im Herzen bemerkbar macht  
 Er die heilsamen Tränen  
 Des Jungen weint  
 Ihn mit seiner Ein-Samkeit  
