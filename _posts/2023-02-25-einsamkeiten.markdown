@@ -13,7 +13,7 @@ Dieser noch so kleine Junge in
 Unglaublicher Verlorenheit und  
 Ein wachsender Mann  
 Allein mit sich  
-Ab und zu begegnen sie sich  
+Ab und zu begegnen sich die beiden  
 Dann  
 Klettert der Junge  
 Auf seinen Schoss  
