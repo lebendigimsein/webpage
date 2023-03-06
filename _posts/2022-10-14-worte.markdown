@@ -2,7 +2,7 @@
 layout: post
 title: Worte
 date: 2022-10-14
-last_modified_at: 2023-01-11
+last_modified_at: 2023-03-06
 categories: [Gedichte]
 tags: []
 ---
@@ -14,7 +14,7 @@ In Worte fassen?
 Namenlos  
 Unbegreifbar  
 Ganz  
-Können Worte überhaupt  
+Können Worte  
 Irgendetwas darüber sagen?  
 Etwas wahres  
 Wirkliches  
@@ -25,10 +25,12 @@ Vereinfachen
 Ordnen  
 Benennen  
 Zeichnen die Karte  
-Die sehr schnell vertrauter ist  
+Die scheinbar vertrauter wird  
 Als das Gelände  
 Ganz vernarrt in dieses Bild  
-Erstarre ich in ihm  
-Denken darüber statt  
-Uns zu trauen  
-Das hier einfach zu er-leben  
+Erstarre ich  
+In ihm  
+Denke darüber statt  
+Mir zu trauen  
+Mir das hier  
+Zu erleben
