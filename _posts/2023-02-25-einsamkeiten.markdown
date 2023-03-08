@@ -16,7 +16,9 @@ Begegnen sich die beiden
 Klettert der Junge  
 Auf seinen Schoss  
 Schmiegt sich fest an ihn  
-Wartet, wartet, wartet  
+Wartet
+Wartet
+Wartet  
 Bis sich seine Verlorenheit  
 Tief im Herzen des anderen bemerkbar macht und  
 Der die heilsamen Tränen  
