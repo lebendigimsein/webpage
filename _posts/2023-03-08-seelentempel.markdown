@@ -12,8 +12,9 @@ Von deiner Berührung
 Seelentempel  
 Hatte keine Ahnung  
 Wie tief  
-Deine Hände und  
+Deine Hände  
 Dein Körper  
+Deine verehrende Präsenz  
 Berühren und  
 Öffnen und  
 Die Seele halten können  
