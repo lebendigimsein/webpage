@@ -34,4 +34,4 @@ Lachen
 In wildem Tanz  
 Seelentempel  
 Hatte keine Ahnung  
-Wie war das ist
+Wie wahr das ist
