@@ -1,11 +1,12 @@
 ---
 layout: haiku
+title: Kirschblüte
 date: 2021-03-16
 last_modified_at:
 categories: [Haikus]
 tags: []
 ---
 
-Blühender Kirschbaum  
-Im Strassenbaugetöse  
+Blühender Kirschbaum
+Im Strassenbaugetöse
 Lautschönes ICH BIN

@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article id="blog-post">
-    <div class="container-post no-title">
+    <div class="container-post">
+        {% if page.title %}
+        <div class="post-title">
+            <h1>{{ page.title }}</h1>
+        </div>
         <div class="post-content">
             {{ content }}
         </div>
