@@ -6,6 +6,6 @@ categories: [Haikus]
 tags: []
 ---
 
-Blühender Kirschbaum
-Im Strassenbaugetöse
+Blühender Kirschbaum  
+Im Strassenbaugetöse  
 Lautschönes ICH BIN
