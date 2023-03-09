@@ -12,7 +12,7 @@ Und auf [Spotify](https://open.spotify.com/show/3EdAaXLEeLeJD7yGxzDFDz?si=949f5c
 Und auch seine [Bücher](https://rupertspira.com/store){:target="_blank"} sind mind blowing. Jedenfalls für meinen Geist.
 
 ## Bernardo Kastrup
-Für mich gibt es keine bessere Art des Denkens und Erklärens als die des Philosophen und Computerwissenschafters [Bernardo Kastrup](https://www.bernardokastrup.com){:target="_blank"}, um die materialistischen Konditionierungen unserer Zeit nach und nach aus meinem Geist zu waschen.  
-Er ist übrigens ein guter Freud von Rupert Spira.  
+[Bernardo Kastrups](https://www.bernardokastrup.com){:target="_blank"} Denken und Erklären hilft mir enorm, die materialistischen Konditionierungen unserer Zeit nach und nach aus meinem Geist zu waschen.  
+Der Philosoph und Computerwissenschafters ist übrigens ein guter Freud von Rupert Spira.  
 Es gibt Video auf [Youtube](https://www.youtube.com/@bernardokastrup){:target="_blank"} und unzählige Gespräche mit ihm in verschiedenen Podcasts auf Spotify (Bernardo Kastrup suchen).  
 Einige seiner [Bücher](https://www.johnhuntpublishing.com/iff-books/authors/bernardo-kastrup){:target="_blank"} lesen sich genauso spannend, wie es ist, ihm zuzuhören.
