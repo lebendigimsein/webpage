@@ -15,3 +15,4 @@ Und auch seine [Bücher](https://rupertspira.com/store){:target="_blank"} sind m
 Für mich gibt es keine bessere Art des Denkens und Erklärens als die des Philosophen und Computerwissenschafters [Bernardo Kastrup](https://www.bernardokastrup.com){:target="_blank"}, um die materialistischen Konditionierungen unserer Zeit nach und nach aus meinem Geist zu waschen.  
 Er ist übrigens ein guter Freud von Rupert Spira.  
 Es gibt Video auf [Youtube](https://www.youtube.com/@bernardokastrup){:target="_blank"} und unzählige Gespräche mit ihm in verschiedenen Podcasts auf Spotify (Bernardo Kastrup suchen).
+Seine [Bücher](https://www.johnhuntpublishing.com/iff-books/authors/bernardo-kastrup){:target="_blank"} lesen sich genauso spannend wie er in den Podcast spricht.
