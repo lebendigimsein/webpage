@@ -14,5 +14,5 @@ Und auch seine [Bücher](https://rupertspira.com/store){:target="_blank"} sind m
 ## Bernardo Kastrup
 [Bernardo Kastrups](https://www.bernardokastrup.com){:target="_blank"} Denken und Erklären hilft mir enorm, die materialistischen Konditionierungen unserer Zeit nach und nach aus meinem Geist zu waschen.  
 Der Philosoph und Computerwissenschafters ist auch ein guter Freud von Rupert Spira.  
-Es gibt Video auf [Youtube](https://www.youtube.com/@bernardokastrup){:target="_blank"} und unzählige Gespräche mit ihm in verschiedenen Podcasts auf Spotify (Bernardo Kastrup suchen).  
+Es gibt viele Videos von ihm auf [Youtube](https://www.youtube.com/@bernardokastrup){:target="_blank"} und unzählige Gespräche mit ihm in verschiedenen Podcasts auf Spotify (Bernardo Kastrup suchen).  
 Einige seiner [Bücher](https://www.johnhuntpublishing.com/iff-books/authors/bernardo-kastrup){:target="_blank"} lesen sich genauso spannend, wie es ist, ihm zuzuhören.
