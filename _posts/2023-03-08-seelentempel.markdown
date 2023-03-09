@@ -2,7 +2,7 @@
 layout: post
 title: Seelentempel
 date: 2023-03-08
-last_modified_at:
+last_modified_at: 2023-03-09
 categories: [Gedichte]
 tags: []
 ---
@@ -14,7 +14,7 @@ Hatte keine Ahnung
 Wie tief  
 Deine Hände  
 Dein Körper  
-Deine verehrende Präsenz  
+Deine liebende Präsenz  
 Berühren und  
 Öffnen und  
 Die Seele halten können  
