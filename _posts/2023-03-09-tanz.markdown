@@ -2,7 +2,7 @@
 layout: post
 title: Tanz
 date: 2023-03-09
-last_modified_at:
+last_modified_at: 2023-03-14
 categories: [Gedichte]
 tags: []
 ---
@@ -28,18 +28,17 @@ Macht Wund
 Traurig  
 Unendlich müde  
 Und verletzlich  
-Doch dazwischen  
+Dazwischen  
 Blitzt manchmal etwas  
 Unerwartet auf  
 Ab und zu  
 Ahne ich  
-Diesen zartwilden Tanz  
-Den ich nicht  
-Verstehe  
+Einen zartwilden Tanz  
+Den ich nicht verstehe  
 Nicht verstehen kann und  
 Nicht muss  
 Der ich bin und  
-Der einfach nur  
+Der einfach  
 Getanzt werden will  
 Mit weit offenem Herzen  
 Mit allem Glück  
