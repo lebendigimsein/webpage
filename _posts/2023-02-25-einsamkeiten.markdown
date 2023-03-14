@@ -16,8 +16,8 @@ Begegnen sich die beiden
 Klettert der Junge  
 Auf seinen Schoss  
 Schmiegt sich fest an ihn  
-Wartet
-Wartet
+Wartet  
+Wartet  
 Wartet  
 Bis sich seine Verlorenheit  
 Tief im Herzen des anderen bemerkbar macht und  
