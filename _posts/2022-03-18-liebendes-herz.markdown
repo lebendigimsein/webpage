@@ -7,16 +7,18 @@ categories: [Gedichte]
 tags: []
 ---
 
-Ganz schön lange inzwischen  
+Ganz schön lange nun  
 Hält uns das Leben den Spiegel vor  
 Diesen uralten, blindfleckigen  
 Drückt uns  
 Eine rostige Klinge an die Kehle und  
 Zwingt uns  
-Hinzuschauen – wehe du schliesst die Augen!  
+Schau hin!  
+Und wehe du schliesst die Augen!  
 Zwei Jahre Weltgrippe zum Aufwärmen  
 Eingesperrt wie Laborratten  
-Und dann – übergangslos  
+Und dann  
+Übergangslos  
 Krieg gleich nebenan  
 Mittelalterszenarien  
 Ziemlich unbekanntes Gebiet  
@@ -30,8 +32,9 @@ Wenn es so weiter geht
 Könnten wir nackt dastehen  
 Frierend, hungernd, erschöpft und krank  
 Mit nur noch einer Sache  
-Die das alles überstehen kann:  
-Ein offenes Herz  
+Die alles überstehen kann:  
+Liebendes Herz  
+Offener  
 Unendlicher Raum  
 Ohne überlebt niemand  
 Mit stirbst du  
