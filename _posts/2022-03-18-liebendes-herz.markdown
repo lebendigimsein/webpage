@@ -2,7 +2,7 @@
 layout: post
 title: Liebendes Herz
 date: 2022-03-18
-last_modified_at:
+last_modified_at: 2023-03-15
 categories: [Gedichte]
 tags: []
 ---
@@ -15,8 +15,10 @@ Eine rostige Klinge an die Kehle und
 Zwingt uns  
 Schau hin!  
 Und wehe du schliesst die Augen!  
-Zwei Jahre Weltgrippe zum Aufwärmen  
-Eingesperrt wie Laborratten  
+Eine Weltgrippe zum Aufwärmen  
+Zwei Jahre  
+Eingesperrt  
+Laborratten  
 Und dann  
 Übergangslos  
 Krieg gleich nebenan  
@@ -29,7 +31,7 @@ Wo's lang geht
 Nun stolpern wir  
 Durch's Labyrinth  
 Wenn es so weiter geht  
-Könnten wir nackt dastehen  
+Könnten wir nackt dasteh'n  
 Frierend, hungernd, erschöpft und krank  
 Mit nur noch einer Sache  
 Die alles überstehen kann:  
