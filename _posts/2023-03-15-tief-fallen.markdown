@@ -7,35 +7,35 @@ categories: [Gedichte]
 tags: []
 ---
 
-Ich habe getanzt
-wild & tender
-Und bin gefallen
-Tief
-Ganz tief
-In die Mitte
-Meines Körpers
-Die so tief unten
+Ich habe getanzt  
+wild & tender  
+Und bin gefallen  
+Tief  
+Ganz tief  
+In die Mitte  
+Meines Körpers  
+Die so tief unten  
 Schweigend ruht
 
-Ich habe getanzt
-wild & tender
-Und bin gefallen
-Tief
-Ganz Tief
-In die Stille
+Ich habe getanzt  
+wild & tender  
+Und bin gefallen  
+Tief  
+Ganz Tief  
+In die Stille  
 Meines Seins
 
-Ich habe getanzt
-wild & tender
-Und bin gefallen
-Tief
-Ganz tief
-Glücklich
-Sprachlos staunend
-Dass es diesen
-Stillen Ort
-In mir gibt
-Der einfach
-Da ist
-Trägt und
+Ich habe getanzt  
+wild & tender  
+Und bin gefallen  
+Tief  
+Ganz tief  
+Glücklich  
+Sprachlos staunend  
+Dass es diesen  
+Stillen Ort  
+In mir gibt  
+Der einfach  
+Da ist  
+Trägt und  
 Hält
