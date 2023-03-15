@@ -30,8 +30,9 @@ wild & tender
 Und bin gefallen  
 Tief  
 Ganz tief  
+Sprachlos  
 Glücklich  
-Sprachlos staunend  
+Staunend  
 Dass es diesen  
 Stillen Ort  
 In mir gibt  
