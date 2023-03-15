@@ -2,7 +2,7 @@
 layout: post
 title: Diese traurige Lebendigkeit
 date: 2023-02-11
-last_modified_at: 2023-02-18
+last_modified_at: 2023-03-15
 categories: [Gedichte]
 tags: []
 ---
@@ -21,7 +21,7 @@ Inneren Purzelbäume
 
 Zugleich  
 Tief drin  
-Lebt diese so vertraute  
+Diese so vertraute  
 Traurigkeit und  
 Schwere  
 Wartet  
