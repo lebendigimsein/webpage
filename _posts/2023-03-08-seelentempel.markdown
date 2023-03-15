@@ -2,7 +2,7 @@
 layout: post
 title: Seelentempel
 date: 2023-03-08
-last_modified_at: 2023-03-09
+last_modified_at: 2023-03-15
 categories: [Gedichte]
 tags: []
 ---
@@ -18,7 +18,7 @@ Deine liebende Präsenz
 Berühren und  
 Öffnen und  
 Die Seele halten können  
-Und was ich  
+Und was sie  
 Gehalten haben muss  
 In mir  
 Wie das jetzt fliesst  
