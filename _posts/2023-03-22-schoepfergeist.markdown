@@ -49,8 +49,7 @@ All den zehntausend Dingen
 War  
 Ist  
 Sein wird  
-Hier  
-Im ewigen Jetzt  
+Hier Jetzt  
 Dass es dazu  
 Nichts braucht  
 Als  
