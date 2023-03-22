@@ -10,9 +10,9 @@ tags: []
 Dieser so  
 Unglaublich schöpferische Geist  
 Voll von Erinnerungen  
-Bildern  
-Glauben  
+Bildern    
 Gefühlen  
+Voller Glauben  
 Empfindungen und ganz  
 Sinnlichem Erleben  
 Im Hierjetzt  
