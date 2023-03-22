@@ -9,11 +9,11 @@ tags: []
 
 Dieser so  
 Unglaublich schöpferische Geist  
-Voll von Erinnerungen  
-Bildern    
-Gefühlen  
-Voller Glauben  
-Empfindungen und ganz  
+Voll von Erinnerungen   
+Bildern und  
+Überzeugungen  
+Voller Gefühle  
+Empfindungen und  
 Sinnlichem Erleben  
 Im Hierjetzt  
 Zehntausend Dinge und mehr  
