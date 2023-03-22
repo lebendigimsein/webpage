@@ -49,8 +49,9 @@ Ist
 Stets eins  
 Mit Gott und  
 All den zehntausend Dingen  
-Das es dazu mehr  
-Nicht braucht als  
-Fallen zu lassen  
+Dass es dazu mehr  
+Nicht braucht  
+Als  
+Fallen lassen  
 Sich  
 In Ihn
