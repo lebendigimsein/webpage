@@ -52,5 +52,5 @@ Hier Jetzt
 Dass es  
 Nichts braucht  
 Als Gnade  
-Sich fallen lassen zu können    
+Sich fallen lassen zu dürfen  
 In Ihn
