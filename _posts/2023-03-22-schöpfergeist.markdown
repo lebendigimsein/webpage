@@ -47,7 +47,7 @@ Stets eins
 Mit Gott und  
 All den zehntausend Dingen  
 War  
-Ist und  
+Ist  
 Sein wird  
 Hier  
 Im ewigen Jetzt  
