@@ -16,7 +16,7 @@ Voller Gefühle
 Empfindungen und  
 Sinnlichem Erleben   
 Zehntausend Dinge und mehr  
-Haben ihren Platz darin  
+Haben darin ihren Platz  
 Entstehen und vergehen  
 Entstehen und vergehen  
 Entstehen und vergehen  
