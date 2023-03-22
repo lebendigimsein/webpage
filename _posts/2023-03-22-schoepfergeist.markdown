@@ -26,8 +26,7 @@ Sich wünscht
 Erfüllt zu sein  
 Vollständig  
 Anzukommen  
-Liebe zu erleben und  
-Zu sein  
+Liebe zu erleben und zu sein  
 Zu sein  
 Dem Gott fortwährend zuraunt  
 «Komm!»  
