@@ -36,8 +36,7 @@ Auf dem Weg ist
 Zu Ihm  
 Nur selten ahnend  
 Dass er schon immer  
-Ganz  
-Angekommen  
+Ganz angekommen  
 Vollständig  
 Heil  
 Unendlich geliebt  
