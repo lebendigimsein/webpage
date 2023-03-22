@@ -9,14 +9,13 @@ tags: []
 
 Dieser so  
 Unglaublich schöpferische Geist  
-Voller Erinnerungen  
-Bilder  
-Vorstellungen  
-Überzeugungen  
+Voll von Erinnerungen  
+Bildern  
+Glauben  
 Gefühlen  
 Empfindungen und ganz  
 Sinnlichem Erleben  
-Hierjetzt  
+Im Hierjetzt  
 Zehntausend Dinge und mehr  
 Haben ihren Platz darin  
 Entstehen und vergehen  
@@ -28,29 +27,33 @@ Sich wünscht
 Erfüllt zu sein  
 Vollständig  
 Anzukommen  
-Liebe zu erleben  
+Liebe zu erleben und  
+Zu sein  
 Zu sein  
 Dem Gott fortwährend zuraunt  
 «Komm!»  
-Magisch davon angezogen  
-Ist er auf dem Weg  
+Der magisch davon angezogen  
 Ohne Unterlass  
+Auf dem Weg ist  
 Zu Ihm  
 Nur selten ahnend  
-Dass er längst  
+Dass er schon immer  
 Ganz  
-Lang schon  
 Angekommen  
 Vollständig  
 Heil  
 Unendlich geliebt  
 Unendlich liebend  
-Ist  
 Stets eins  
 Mit Gott und  
 All den zehntausend Dingen  
-Dass es dazu mehr  
-Nicht braucht  
+War  
+Ist und  
+Sein wird  
+Hier  
+Im ewigen Jetzt  
+Dass es dazu  
+Nichts braucht  
 Als  
 Fallen lassen  
 Sich  
