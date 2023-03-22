@@ -14,8 +14,7 @@ Bildern und
 Überzeugungen  
 Voller Gefühle  
 Empfindungen und  
-Sinnlichem Erleben  
-Im Hierjetzt  
+Sinnlichem Erleben   
 Zehntausend Dinge und mehr  
 Haben ihren Platz darin  
 Entstehen und vergehen  
