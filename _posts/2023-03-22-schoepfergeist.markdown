@@ -49,9 +49,8 @@ War
 Ist  
 Sein wird  
 Hier Jetzt  
-Dass es dazu  
+Dass es  
 Nichts braucht  
-Als  
-Fallen lassen  
-Sich  
+Als Gnade  
+Sich fallen lassen zu können    
 In Ihn
