@@ -10,7 +10,7 @@ tags: []
 Dieser so  
 Unglaublich schöpferische Geist  
 Voll von Erinnerungen   
-Bildern und  
+Bilder und  
 Überzeugungen  
 Voller Gefühle  
 Empfindungen und  
