@@ -23,6 +23,7 @@ Haben darin ihren Platz
 Entstehen und vergehen  
 Entstehen und vergehen  
 Entstehen und vergehen  
+Geist  
 Der sucht und forscht und hofft  
 Der lacht und leidet und sich sehnt  
 Sich wünscht  
