@@ -11,7 +11,7 @@ Dieser so
 Unglaublich schöpferische Geist  
 In mir  
 Voll von Erinnerungen   
-Bildern und  
+Bildern  
 Überzeugungen  
 Voller Gefühle  
 Empfindungen und  
