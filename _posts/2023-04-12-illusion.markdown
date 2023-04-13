@@ -2,7 +2,7 @@
 layout: post
 title: Illusion
 date: 2023-04-12
-last_modified_at:
+last_modified_at: 2023-04-13
 categories: [Gedichte]
 tags: []
 ---
@@ -15,9 +15,8 @@ Wäre
 Etwas anderes als  
 Du und ich  
 Erleben  
-Unsere Sinne uns schenken    
-Wir dann in uns erschaffen  
-Denken und fühlen  
+Unsere Sinne uns schenken   
+Wir denken und fühlen  
 Etwas-anderes-als  
 Nicht nichts  
 Was wäre  
