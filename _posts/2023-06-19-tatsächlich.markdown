@@ -19,7 +19,7 @@ Pulst und
 Fliesst  
 Lass mich  
 Dem Flüstern  
-Kein Vertrauen schenken
+Kein Vertrauen schenken  
 Und lass mich  
 Immer wieder  
 Ruh'n
