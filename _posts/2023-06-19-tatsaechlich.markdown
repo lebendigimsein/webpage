@@ -23,9 +23,9 @@ Lass mich
 Dem  
 Ängstigenden Flüstern  
 Kein Vertrauen schenken  
-Und lass mich  
+Lass  
 Immer wieder  
-Ruh'n  
+Ruhen mich  
 Im Sein  
 Das  
 Zeit und  
