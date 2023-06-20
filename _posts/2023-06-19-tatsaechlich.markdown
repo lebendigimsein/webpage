@@ -7,8 +7,10 @@ categories: [Gedichte]
 tags: []
 ---
 
-Lass mich stets  
-Im Erleben  
+So lass mich  
+Stets  
+Nur im  
+Erleben  
 Sein und  
 Bleiben  
 Lass sanft  
@@ -18,7 +20,8 @@ In mir
 Pulst und  
 Fliesst  
 Lass mich  
-Dem Flüstern  
+Dem ängstigenden
+Flüstern  
 Kein Vertrauen schenken  
 Und lass mich  
 Immer wieder  
