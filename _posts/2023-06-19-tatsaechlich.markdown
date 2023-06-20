@@ -1,28 +1,29 @@
 ---
 layout: post
-title: Wirklich
+title: Tatsächlich
 date: 2023-06-19
 last_modified_at:
 categories: [Gedichte]
 tags: []
 ---
 
-Lass mich nur  
+Lass mich stets  
 Im Erleben  
 Sein und  
 Bleiben  
 Lass sanft  
 Mich öffnen dem  
-Was wirklich  
+Was hier tatsächlich  
 In mir  
 Pulst und  
 Fliesst  
 Lass mich  
-Meinen Geschichten  
-Keinen Glauben schenken  
-Und Ruh'n  
-Stattdessen  
-In dem Sein  
+Dem Flüstern  
+Kein Vertrauen schenken
+Und lass mich  
+Immer wieder  
+Ruh'n
+Im Sein  
 Das  
 Zeit und  
 Raumlos  
