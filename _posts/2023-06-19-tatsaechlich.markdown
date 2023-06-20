@@ -22,7 +22,7 @@ Dem Flüstern
 Kein Vertrauen schenken  
 Und lass mich  
 Immer wieder  
-Ruh'n
+Ruh'n  
 Im Sein  
 Das  
 Zeit und  
