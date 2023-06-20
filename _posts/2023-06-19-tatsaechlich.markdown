@@ -20,8 +20,8 @@ In mir
 Pulst und  
 Fliesst  
 Lass mich  
-Dem ängstigenden
-Flüstern  
+Dem  
+Ängstigenden Flüstern  
 Kein Vertrauen schenken  
 Und lass mich  
 Immer wieder  
