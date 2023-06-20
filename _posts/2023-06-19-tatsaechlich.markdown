@@ -13,8 +13,8 @@ Nur im
 Erleben  
 Sein und  
 Bleiben  
-Lass sanft  
-Mich öffnen dem  
+Lass sanft mich  
+Öffnen dem  
 Was hier tatsächlich  
 In mir  
 Pulst und  
