@@ -7,25 +7,29 @@ categories: [Gedichte]
 tags: []
 ---
 
-Lass mich stets  
-Im Erleben  
+So lass mich  
+Stets  
+Nur im  
+Erleben  
 Sein und  
 Bleiben  
-Lass sanft  
-Mich öffnen dem  
+Lass sanft mich  
+Öffnen dem  
 Was hier tatsächlich  
 In mir  
 Pulst und  
 Fliesst  
 Lass mich  
-Dem Flüstern  
+Dem  
+Ängstigenden Flüstern  
 Kein Vertrauen schenken  
-Und lass mich  
+Lass  
 Immer wieder  
-Ruh'n  
+Ruhen mich  
 Im Sein  
 Das  
 Zeit und  
 Raumlos  
 Weiss und  
+Liebt und  
 Ist
