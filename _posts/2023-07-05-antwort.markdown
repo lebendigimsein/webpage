@@ -1,0 +1,12 @@
+---
+layout: haiku
+title: antwort
+date: 2023-07-05
+last_modified_at:
+categories: [Haikus]
+tags: []
+---
+
+die antwort war so  
+doch nicht ganz ohne tücken  
+doch wunderbar du
