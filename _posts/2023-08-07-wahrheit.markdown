@@ -2,7 +2,7 @@
 layout: post
 title: Wahrheit
 date: 2023-08-07
-last_modified_at: 2023-08-10
+last_modified_at: 2023-08-14
 categories: [Gedichte]
 tags: []
 ---
@@ -67,3 +67,7 @@ Wahr sein und
 In dir  
 Eins werden  
 Dürfen
+
+_«Jenseits von richtig und falsch liegt  
+ein Ort. Dort treffen wir uns.»_  
+Rumi
