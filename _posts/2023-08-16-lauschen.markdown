@@ -1,0 +1,12 @@
+---
+layout: haiku
+title: lauschen
+date: 2023-08-16
+last_modified_at:
+categories: [Haikus]
+tags: []
+---
+
+und dann lauscht stille  
+wie sie sich selbst entfaltet  
+in mich und die welt
