@@ -1,0 +1,15 @@
+---
+layout: haiku
+title: ja
+date: 2023-09-02
+last_modified_at:
+categories: [Haikus]
+tags: []
+---
+
+lass fliessen mich mit  
+dem wie du mich lebst und  
+wie ich immer bin
+
+
+_Wer ist es, der nein sagt?_
