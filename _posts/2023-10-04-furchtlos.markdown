@@ -7,6 +7,6 @@ categories: [Haikus]
 tags: []
 ---
 
-jetzt lieben nur noch  
+jetzt nur noch lieben  
 weit und tief in mein wesen  
 wachsen aus der angst
