@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: haiku
 title: furchtlos
 date: 2023-10-05
 last_modified_at:
