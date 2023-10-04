@@ -8,5 +8,5 @@ tags: []
 ---
 
 jetzt lieben nur noch  
-zutiefst in meinem wesen  
+weit und tief in mein wesen  
 wachsen aus der angst
