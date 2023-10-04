@@ -81,6 +81,11 @@ li.header-main-nav-item > a.active span {
     line-height: 24px;
 }
 
+.list-pagination {
+    margin: 36px 0 10px 0;
+    text-align: center;
+}
+
 .categories-list {
     .posts-category {
         margin-top: 10px;
@@ -102,4 +107,15 @@ ul.categories-list li {
     margin-top: -10px;
     margin-bottom: 30px;
     font-size: 0.8em;
+}
+
+@media screen and (max-width: 768px) {
+    /* Posts list */
+    .list-pagination {
+        margin: 20px 0 5px 0;
+    }
+
+    .container-post {
+        min-height: calc(70vh);
+    }
 }
