@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: furchtlos
-date: 2023-10-05
+date: 2023-10-04
 last_modified_at:
 categories: [Haikus]
 tags: []
