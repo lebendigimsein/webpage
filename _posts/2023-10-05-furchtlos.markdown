@@ -7,6 +7,6 @@ categories: [Haikus]
 tags: []
 ---
 
-endlich in liebe  
-tief in meinem wesen sein  
-der angst entwachsen
+jetzt nur noch lieben  
+zutiefst in meinem wesen  
+wachsen aus der angst
