@@ -9,4 +9,4 @@ tags: []
 
 nicht mein wille nein  
 deiner geschehe — zeig mir  
-worum es jetzt geht
+worum es nun geht
