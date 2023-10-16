@@ -1,0 +1,12 @@
+---
+layout: haiku
+title: loslassen 2
+date: 2023-10-15
+last_modified_at:
+categories: [Haikus]
+tags: []
+---
+
+loslassen dich du  
+wunderbare feine frau  
+und das licht hüten
