@@ -7,22 +7,19 @@ categories: [Gedichte]
 tags: []
 ---
 
-Zeit  
-Ist nur dann  
-Wenn du sie denkst  
+Zeit ist nur  
+Denkst du sie  
 Sonst  
-Ist da nicht als  
+Ist da nichts als  
 Stetiger Wandel  
 Im ewigen Jetzt  
-Und auch  
-Raum  
-Ist nur dann  
-Wenn du ihn denkst  
-Und sonst  
+Auch Raum ist nur  
+Denkst du ihn  
+Sonst  
 Ist da nichts als  
 Erleben  
 Wissen und Sein  
 Kein Leben  
 Das vergeht  
-Weder schnell  
-Noch langsam
+Nicht schnell  
+Nicht langsam
