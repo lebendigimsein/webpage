@@ -25,4 +25,4 @@ Wissen und Sein
 Kein Leben  
 Das vergeht  
 Weder schnell  
-	Noch langsam
+Noch langsam
