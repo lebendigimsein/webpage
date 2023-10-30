@@ -7,6 +7,6 @@ categories: [Haikus]
 tags: []
 ---
 
-herbstdunkel zieht ein
-wo grad noch so viel sommer
+herbstdunkel zieht ein  
+wo grad noch so viel sommer  
 trotzdem strahlt mein herz
