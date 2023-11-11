@@ -1,0 +1,12 @@
+---
+layout: haiku
+title: werden
+date: 2023-11-11
+last_modified_at:
+categories: [Haikus]
+tags: []
+---
+
+es ist nie werden  
+es ist nur sein was du bist  
+das braucht seine zeit
