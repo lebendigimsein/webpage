@@ -11,20 +11,19 @@ Pass auf
 Mein Freund  
 Dass du zuerst  
 Dich selbst  
-Ganz liebst  
-So wie du bist und  
-Denkst und fühlst  
-Empfindest und erlebst  
-Und so  
-Wie du das  
-Eben nicht tust  
-Und dann erst  
-Wirklich dann erst  
+Ganz und gar liebst  
+Wie du bist  
+Wie du denkst und fühlst  
+Wie du empfindest und erlebst  
+Und auch  
+Wie du das nicht tust  
+Dann erst und  
+Wirklich erst dann  
 Wenn du  
-Kompromisslos  
-Ja sagen   
+Ohne Kompromisse  
+Ja sagen  
 Dich annehmen  
-Und herzenswarm  
+Und aus tiefstem Herzen  
 Umarmen kannst  
 Erst dann  
 Darfst du dich fragen  
