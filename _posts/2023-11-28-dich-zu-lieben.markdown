@@ -2,7 +2,7 @@
 layout: post
 title: Dich zu lieben
 date: 2023-11-28
-last_modified_at:
+last_modified_at: 2023-11-29
 categories: [Gedichte]
 tags: []
 ---
@@ -10,23 +10,23 @@ tags: []
 Pass auf  
 Mein Freund  
 Dass du zuerst  
-Dich selbst  
-Ganz und gar liebst  
+Und ohne Zweifel  
+Dich liebst  
+So  
 Wie du bist  
 Wie du denkst und fühlst  
 Wie du empfindest und erlebst  
 Und auch  
-Wie du das nicht tust  
+Wie nicht  
 Dann erst und  
 Wirklich erst dann  
-Wenn du  
-Ohne Kompromisse  
-Ja sagen  
+Wenn du kompromisslos  
+Ja sagst  
 Dich annehmen  
 Und aus tiefstem Herzen  
 Umarmen kannst  
-Erst dann  
-Darfst du dich fragen  
+Dann erst  
+Frag dich  
 Was es jetzt noch braucht  
 Damit du ganz  
 Das Leben bist  
