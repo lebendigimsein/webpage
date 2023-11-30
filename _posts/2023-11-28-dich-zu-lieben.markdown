@@ -17,7 +17,7 @@ Wie du bist
 Wie du denkst und fühlst  
 Wie du empfindest und erlebst  
 Und auch  
-Und vielleicht heute ganz besonders  
+Und vielleicht ganz besonders heute  
 Wie nicht  
 Dann erst und  
 Wirklich erst dann  
@@ -27,9 +27,10 @@ Dich annehmen
 Und aus tiefstem Herzen  
 Umarmen kannst  
 Dann erst  
-Frag dich  
-Was es jetzt noch braucht  
+Magst du dich fragen  
+Ob es jetzt noch  
+Etwas braucht  
 Damit du ganz  
-Das Leben bist  
+Das Leben sein kannst  
 Als das du  
-Gemeint sein könntest
+Gemeint bist
