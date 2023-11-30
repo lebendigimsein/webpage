@@ -2,7 +2,7 @@
 layout: post
 title: Dich zu lieben
 date: 2023-11-28
-last_modified_at: 2023-11-29
+last_modified_at: 2023-11-30
 categories: [Gedichte]
 tags: []
 ---
@@ -17,6 +17,7 @@ Wie du bist
 Wie du denkst und fühlst  
 Wie du empfindest und erlebst  
 Und auch  
+Und vielleicht ganz besonders  
 Wie nicht  
 Dann erst und  
 Wirklich erst dann  
