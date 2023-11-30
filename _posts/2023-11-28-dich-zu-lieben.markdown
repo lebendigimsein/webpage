@@ -28,8 +28,8 @@ Und aus tiefstem Herzen
 Umarmen kannst  
 Dann erst  
 Magst du dich fragen  
-Ob es jetzt noch  
-Etwas braucht  
+Ob es jetzt  
+Noch etwas braucht  
 Damit du ganz  
 Das Leben sein kannst  
 Als das du  
