@@ -11,13 +11,13 @@ Pass auf
 Mein Freund  
 Dass du zuerst  
 Und ohne Zweifel  
-Dich liebst  
+Dich wirklich liebst  
 So  
 Wie du bist  
 Wie du denkst und fühlst  
 Wie du empfindest und erlebst  
 Und auch  
-Und vielleicht ganz besonders  
+Und vielleicht heute ganz besonders  
 Wie nicht  
 Dann erst und  
 Wirklich erst dann  
