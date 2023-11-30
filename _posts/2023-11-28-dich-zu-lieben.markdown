@@ -34,7 +34,5 @@ Damit du ganz
 Das Leben sein kannst  
 Als das du  
 Gemeint bist  
-Aber dann  
-Wirst du  
-Vielleicht  
-Garnichts mehr finden
+Wer weiss  
+Was du dann findest
