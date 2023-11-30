@@ -11,7 +11,7 @@ Pass auf
 Mein Freund  
 Dass du zuerst  
 Und ohne Zweifel  
-Dich wirklich liebst  
+Dich liebst  
 So  
 Wie du bist  
 Wie du denkst und fühlst  
