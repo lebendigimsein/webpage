@@ -33,4 +33,8 @@ Etwas braucht
 Damit du ganz  
 Das Leben sein kannst  
 Als das du  
-Gemeint bist
+Gemeint bist  
+Aber dann  
+Wirst du  
+Vielleicht  
+Garnichts mehr finden
