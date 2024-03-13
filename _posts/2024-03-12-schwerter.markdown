@@ -56,7 +56,7 @@ Mit grosser Liebe
 Allerdings  
 Mit Mut  
 Geduld und  
-Mirzurseitestehen  
+Mir zur Seite steh’n  
 Werd’ ich sie  
 Wieder  
 Glänzen lassen und  
