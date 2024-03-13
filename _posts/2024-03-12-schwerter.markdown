@@ -21,8 +21,9 @@ All-eins mit dir
 Geisteskraft und  
 Tiefe innere Stille  
 Weit weit entfernt  
-Von diesem  
-Irdischen Sein  
+Vom Sein
+Hier
+Ich  
 Perfekter Ausweg  
 Aus dem  
 Zwicken und Zwacken  
