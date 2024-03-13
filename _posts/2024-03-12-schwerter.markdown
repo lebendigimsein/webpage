@@ -57,7 +57,7 @@ Allerdings
 Mit Mut  
 Geduld und  
 Mir zur Seite steh’n  
-Werd’ ich sie  
-Wieder  
-Glänzen lassen und  
-Führen können  
+Werd’ ich sie wieder  
+Glänzen lassen  
+Werd’ ich sie wieder  
+Führen können
