@@ -25,7 +25,7 @@ Vom Sein
 Hier
 Ich  
 Perfekter Ausweg  
-Aus dem  
+Aus dem
 Zwicken und Zwacken  
 Dem Unklaren und  
 Widersprüchlichen  
@@ -59,4 +59,5 @@ Geduld und
 Mirzurseitestehen  
 Werd’ ich sie  
 Wieder  
-Glänzen lassen
+Glänzen lassen und
+Führen können
