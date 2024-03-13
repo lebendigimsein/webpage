@@ -59,5 +59,5 @@ Geduld und
 Mirzurseitestehen  
 Werd’ ich sie  
 Wieder  
-Glänzen lassen und
+Glänzen lassen und  
 Führen können
