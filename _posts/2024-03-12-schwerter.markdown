@@ -21,8 +21,8 @@ All-eins mit dir
 Geisteskraft und  
 Tiefe innere Stille  
 Weit weit entfernt  
-Vom Sein
-Hier
+Vom Sein  
+Hier  
 Ich  
 Perfekter Ausweg  
 Aus dem
