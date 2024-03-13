@@ -2,7 +2,7 @@
 layout: post
 title: Schwerter
 date: 2024-03-12
-last_modified_at:
+last_modified_at: 2024-03-13
 categories: [Gedichte]
 tags: []
 ---
@@ -60,4 +60,4 @@ Mir zur Seite steh’n
 Werd’ ich sie  
 Wieder  
 Glänzen lassen und  
-Führen können
+Führen können  
